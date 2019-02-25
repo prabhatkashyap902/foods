@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FoodBucket</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detailsfor_item"></string>
+    <string name="help">We at FoodBucket are committed to
+        deliver hygienic and quality Meal for College/Hostel students at a very affordable price. To ensure the quality in our cuisine,
+        we take orders until 12 PM in the afternoon for lunch and 8 PM in the evening for dinner.
+        This gives us time to prepare and serve you with the best deal.
+        \nFor any kind of enquiry or problem with the order, you can mail us to
+    </string>
+    <string name="mail"><u>ifoodbucket@gmail.com</u></string>
+    <string name="rest">with your order no. and food details. We would love to help you.
+        The Colleges where we deliver are IIIT, BGU, IMI.
+        For any Food description, just click on the Food item in the list. \n\nTeam Food Bucket.</string>
+</resources>
