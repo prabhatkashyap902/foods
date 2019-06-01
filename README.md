@@ -1,6 +1,6 @@
 # foods
 
-![Screenshot_2019-01-30-22-37-00-612_com prodev booz](https://user-images.githubusercontent.com/19501588/58744436-a2871780-8460-11e9-9582-d116955deed4.png  | width=100)
+<img src="https://user-images.githubusercontent.com/19501588/58744436-a2871780-8460-11e9-9582-d116955deed4.png" width="48">
 ![Screenshot_2019-01-30-19-21-23-996_com prodev booz](https://user-images.githubusercontent.com/19501588/58744437-a7e46200-8460-11e9-9307-e3d42f733b70.png)
 ![Screenshot_2019-01-30-19-21-27-792_com prodev booz](https://user-images.githubusercontent.com/19501588/58744439-aadf5280-8460-11e9-9bf0-678d1be59b40.png)
 ![Screenshot_2019-01-30-22-40-57-893_com prodev booz](https://user-images.githubusercontent.com/19501588/58744446-bcc0f580-8460-11e9-9685-d78451c42ac2.png)
